@@ -34,3 +34,4 @@ Right aligned columns
 | ext    | extension to be used for dest files. |
 
 TEST Content
+TESTING ........................
