@@ -12,6 +12,7 @@ This is my TEST branch
 This is from my local repo to remote repo in to the the TEST br
 
 tHIS IS TEST1=============================================
+This is TEST12 =========================================================
 
 > Dorothy followed her through many of the beautiful rooms in her castle.
 >
